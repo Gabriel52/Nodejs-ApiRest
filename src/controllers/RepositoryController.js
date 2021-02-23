@@ -32,10 +32,11 @@ class RepositoryController {
   }
 
   async index(req, res) {
+    const user_id = req.loggedUser.id;
     try {
       const repositoryIndex = await Repository.findAll({
         raw: true,
-        where: { status: 'A' },
+        where: { status: 'A', user_id },
       });
       const amount = repositoryIndex.length;
       res.status(200).json({ success: false, data: repositoryIndex, amount });
