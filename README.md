@@ -48,6 +48,8 @@ Sequelize;
 
 JsonWebToken
 
+Eslint
+
 MySQL (Banco de Dados);
 
 <h2> :book: Licença </h2>
