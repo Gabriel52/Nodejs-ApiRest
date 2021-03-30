@@ -352,7 +352,7 @@ nenhum
 ### DELETE /repository/:id
 Este endpoint fica responsavel por deletar um repositorio
 ### Params
-nenhum
+id:int
 ### Response
 ```bash
 {
@@ -433,7 +433,7 @@ repository: Integer
 ### DELETE /star/:id
 Este endpoint fica responsavel por retirar uma estrela de um repositorio
 ### Params
-nenhum
+id:int
 ### Response
 ```bash
 {
