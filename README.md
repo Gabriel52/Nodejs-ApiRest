@@ -73,7 +73,7 @@ name, email
 ```bash
   {
     "success": true,
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NiwiZW1haWwiOiJndXN0YXZvX2d1YW5hYmFyYTg5QG91dGxvb2suY29tIiwiaWF0IjoxNjE0MDMzNjM5LCJleHAiOjE2MTQxMjAwMzl9.6X4t0WotBkei7BlXYgJM01tTv1xYdR-1-sXjEboZu9U",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NiwiZW1haWwiOiJndXN0YXZvX2d1YW5hYmFy2432324324YTg5QG91dGxvb2suY29tIiwiaWF0IjoxNjE0MDMzNjM5LCJleHAiOjE2MTQxMjAwMzl9.6X4t0WotBkei7BlXYgJM01tTv1xYdR-1-sXjEboZu9U",
     "user": {
       "email": "gustavo_guanabara89@outlook.com",
       "id": 6
